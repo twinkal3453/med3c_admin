@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.mainTable {
+  margin: 0 2rem 0 2rem;
+}
+.iconForDelete {
+  cursor: pointer;
+}
+.iconForDelete:hover {
+  color: red;
+}
+.buttonDelete {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.buttonUpdate {
+  background: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}

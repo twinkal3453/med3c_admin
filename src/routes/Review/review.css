@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#AddReview {
+  position: fixed;
+  top: 85vh;
+  right: 2rem;
+  height: 2.5rem;
+}
+.file_sync {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+}
+.inputs_1 {
+  display: flex;
+}
+.submit_Button {
+  width: 10rem;
+  margin: 2rem 0 0 0;
+}

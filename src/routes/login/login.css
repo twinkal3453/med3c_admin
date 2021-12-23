@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.loginMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .buttonSubmit {
+  height: 3rem;
+  width: 500px;
+} */
+
+.form-control {
+  text-align: start;
+}

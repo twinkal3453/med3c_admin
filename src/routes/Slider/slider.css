@@ -1,0 +1,10 @@
+.add_Button {
+  margin-top: 0.5rem;
+  display: flex;
+}
+#Add_Slider {
+  position: fixed;
+  bottom: 4rem;
+  right: 3rem;
+  height: 2.5rem;
+}
